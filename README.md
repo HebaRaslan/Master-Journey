@@ -6,11 +6,19 @@ Project Structure :
 The hands on project on Transfer Learning for NLP with TensorFlow Hub is divided into following tasks:
 
 Task 1: Introduction to the Project
+
 Task 2:  Setup your TensorFlow and Colab Runtime
+
 Task 3: Load the Quora Insincere Questions Dataset
+
 Task 4: TensorFlow Hub for Natural Language Processing  
+
 Tasks 5 & 6: Define Function to Build and Compile Models
+
 Task 7:  Train Various Text Classification Models
+
 Task 8: Compare Accuracy and Loss Curves
+
 Task 9: Fine-tune Model from TF Hub
+
 Task 10: Train Bigger Models and Visualize Metrics with TensorBoard
